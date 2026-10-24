@@ -1,20 +1,15 @@
 {
-  "name": "minecraft-agent-skills",
+  "name": "yuemi-agent-skills",
   "version": "1.0.0",
-  "description": "Agent skill for Minecraft PaperMC Tools.",
+  "description": "Agent skill used by YueMi Development.",
   "keywords": [
-    "skills",
-    "minecraft",
-    "paperweight",
-    "paper-fork",
-    "purpur-fork",
-    "patching"
+    "skills"
   ],
   "author": "YueMi-Development",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YueMi-Development/minecraft-agent-skills.git"
+    "url": "https://github.com/YueMi-Development/yuemi-agent-skills.git"
   },
   "extra": {
     "ai-agent-skill": "skills/*/SKILL.md"
